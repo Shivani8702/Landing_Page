@@ -221,7 +221,6 @@ video#video{
   margin-top: 25px;
   position: relative;
   overflow: hidden;
-  border-radius: 30;
 }
 
 .header-info-par a:after{
@@ -236,11 +235,9 @@ video#video{
   height: 100%;
   line-height: 50px;
   transition: all 0.5s ease;
-  border-radius: 30;
 }
 .header-info-par a:hover:after{
   width: 100%;
-  border-radius: 30;
 }
 .header-info-par h1{
   font-size: 45px;
